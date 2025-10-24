@@ -1,0 +1,32 @@
+# 1. Inicializa el repositorio local
+git init
+
+# 2. Agrega todos los archivos
+git add .
+
+# 3. Crea el primer commit (una versión del proyecto)
+git commit -m "capitulo 1"
+
+# 4. Conecta tu proyecto local al repositorio remoto en GitHub
+git remote add origin https://github.com/ALLANROBER/Proyecto-NEXTJS.git
+
+# 5. Envía los archivos a GitHub
+git branch -M main
+git push -u origin main
+
+
+
+
+volver a subir archivos
+
+# 1. Muestra qué archivos han cambiado
+git status
+
+# 2. Agrega los archivos nuevos o modificados
+git add .
+
+# 3. Crea un commit con descripción
+git commit -m "Actualización del proyecto"
+
+# 4. Sube los cambios al repositorio remoto
+git push
