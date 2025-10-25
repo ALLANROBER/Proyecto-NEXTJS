@@ -1,0 +1,8 @@
+Nombre:Allan Guamuch
+Carne:2990-19-22192
+
+link del cuerso
+https://nextjs.org/learn/dashboard-app
+
+link de mi repositorio
+https://github.com/ALLANROBER/Proyecto-NEXTJS.git
